@@ -110,6 +110,16 @@ The boxplot shows order values range between approximately $12 and $30 with a me
 
 ---
 
+## Business Impact
+
+This project demonstrates how data can be used to:
+
+- Identify high-value customers for targeted promotions  
+- Analyze restaurant performance to optimize partnerships  
+- Understand order value patterns for pricing strategies
+  
+--- 
+
 ## Tools & Technologies
 
 * MySQL
