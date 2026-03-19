@@ -98,9 +98,10 @@ Visualizations include:
 
 ## Author
 
-Niranjan K C
-Information Technology (Data Managment & Analytics) – Towson University
-Graduation: May 2026
+- Niranjan K C  
+- Information Technology (Data Management & Analytics)  
+- Towson University  
+- Graduation: May 2026  
 
 
 
