@@ -65,15 +65,31 @@ Reusable views:
 
 ---
 
+
 ## Data Visualization
 
-Data extracted from SQL was analyzed in Python.
+### Total Spending per Customer
 
-Visualizations include:
+![Customer Spending](visualizations/customer_spending.png)
 
-* Total Orders per Restaurant
-* Total Spending per Customer
-* Distribution of Order Values (Boxplot)
+This chart shows that a small group of customers contributes the highest share of total revenue, indicating high-value customers.
+
+---
+
+### Total Orders per Restaurant
+
+![Orders per Restaurant](visualizations/orders_per_restaurant.png)
+
+Both restaurants receive a similar number of orders, indicating equal demand. Differences in revenue suggest variation in pricing or order values.
+
+---
+
+### Order Value Distribution (Boxplot)
+
+![Order Distribution](visualizations/order_value_distribution.png)
+
+The boxplot shows order values range between approximately $12 and $30 with a median around $19, indicating stable pricing and consistent customer behavior.
+
 
 ---
 
