@@ -50,6 +50,14 @@ Matplotlib | Pandas
 
 ---
 
+## Database Design (ERD)
+
+![ERD](visualizations/eerdproject.PNG)
+
+The database is designed using a relational schema including customers, restaurants, orders, payments, and reviews. The ERD illustrates relationships and ensures data integrity across the system.
+
+
+
 ## SQL Analytics
 
 The project includes analytical queries to answer business questions such as:
@@ -92,6 +100,7 @@ The boxplot shows order values range between approximately $12 and $30 with a me
 
 
 ---
+
 
 ## Key Insights
 
