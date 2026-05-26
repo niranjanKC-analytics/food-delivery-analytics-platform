@@ -130,13 +130,12 @@ This project demonstrates how data can be used to:
 * Google Colab
 
 ---
+## 👤 Author
+**Niranjan K C**  
+Data Analyst | B.S. Information Technology — Towson University, May 2026  
 
-## Author
-
-- Niranjan K C  
-- Information Technology (Data Management & Analytics)  
-- Towson University  
-- Graduation: May 2026  
-
+[![GitHub](https://img.shields.io/badge/GitHub-niranjanKC--analytics-black?logo=github)](https://github.com/niranjanKC-analytics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niranjan%20K%20C-blue?logo=linkedin)](https://www.linkedin.com/in/niranjan-k-c-44b681334/)
+[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-orange?logo=tableau)](https://public.tableau.com/app/profile/niranjan.k.c5704/vizzes)
 
 
